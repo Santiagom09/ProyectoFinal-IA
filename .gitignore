@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.zip
+cache/
+data/valle_drive.graphml

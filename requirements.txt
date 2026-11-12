@@ -1,0 +1,8 @@
+streamlit>=1.38
+plotly>=5.24
+pandas
+numpy
+scikit-learn
+openai>=1.40
+python-dotenv
+holidays
